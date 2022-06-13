@@ -1,7 +1,7 @@
-# Memory Game
+# Matching Card Game
 A retro grid-based game in vanilla JavaScript, HTML and CSS
 
-## Rules of Memory Game
+## Rules of Matching Card Game
 - You will start by flipping over one card
 - If the next card you flip matches, a pop up alert notifies you and you get +1 to your score
 - These cards then disspear
